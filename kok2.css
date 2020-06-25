@@ -81,6 +81,8 @@ section#header-nav .block-breadcrumb a {
   width: 140px;
   height: 45px;
   padding-left: 10px;
+  border-radius: 7px;
+  border: dotted 1px;
 }
 
 section#header-nav .block-breadcrumb a i {
