@@ -1790,10 +1790,10 @@ a.icon-youtube {
 }
 
 .text-danger{
-	  color: #dc3545;
+	  color: #dc3545 !important;
   }
   .text-success{
-	  color: #28a745;
+	  color: #28a745 !important;
   }
 
 /*# www.fb.com/langtukids */
