@@ -522,7 +522,7 @@ section#footer .footer-menu a:last-child {
 }
 
 .block-logged .balance {
-  font-size:1.428em;
+  font-size: 20px;
   color:#DF6E58;
   display:inline-block;
 }
