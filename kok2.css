@@ -77,7 +77,10 @@ section#header-nav .container {
 section#header-nav .block-breadcrumb a {
   color:#414141;
   font-size:1em;
-  width:200px;
+  background: #f4d4ac;
+  width: 140px;
+  height: 45px;
+  padding-left: 10px;
 }
 
 section#header-nav .block-breadcrumb a i {
