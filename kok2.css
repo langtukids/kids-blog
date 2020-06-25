@@ -668,8 +668,9 @@ h3.title {
   line-height:35px;
   font-size:1.1em;
   display:inline-block;
-  color: #fff;
-  background-color: #fe9037;
+  color: #444;
+  border: dotted 1px;
+  background-color: #fff;
 }
 
 .button-history i {
