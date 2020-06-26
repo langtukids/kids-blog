@@ -268,7 +268,7 @@ section#body .block-recharge .list-pay li a::after {
   position:absolute;
   bottom:8px;
   right:0;
-  background:url("https://nap.vgplay.vn/static/assets/templates/images/icon-pay.png") no-repeat 0% 0%;
+  background: url("http://thanmakok.com/assets/img/icon-pay.png") no-repeat 0% 0%;
   background-size:500% auto;
 }
 
@@ -277,11 +277,11 @@ section#body .block-recharge .list-pay li a.pay-byatmibanking::after {
 }
 
 section#body .block-recharge .list-pay li a.pay-bycreditcard::after {
-  background-position:25% 0%;
+  background-position: 25% 100%;
 }
 
 section#body .block-recharge .list-pay li a.pay-byviettelcard::after {
-  background-position:50% 0%;
+  background-position: 100% 0%;
 }
 
 section#body .block-recharge .list-pay li a.pay-bysmsvinamobi::after {
