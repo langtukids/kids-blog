@@ -139,6 +139,7 @@ font-family: 'Cabin';
 .Kheader{
     background: #ccc;
     color: #dc3545;
+  display: none;
 }
 .kfooter{
 color: #fff;
