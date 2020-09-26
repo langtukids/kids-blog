@@ -1,4 +1,7 @@
-  .numberedtextarea-line-numbers{padding-left: 0px !important;}
+body{
+font-family: 'Cabin';
+}  
+.numberedtextarea-line-numbers{padding-left: 0px !important;}
 .ktextarea {background:#34495E; color:#fff; padding:20px;}
 .form-control:focus{outline: none !important; background: #34495E; color: #fff;}
 .blogger-labels{display:none;}
