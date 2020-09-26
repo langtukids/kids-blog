@@ -19,7 +19,9 @@ font-family: 'Cabin';
 }
 
 #KTable tr {
-  border-bottom: 1px solid #ccc;
+  /* border-bottom: 1px solid #ccc; */
+  text-align-last: center;
+  float: left;
 }
 
 
